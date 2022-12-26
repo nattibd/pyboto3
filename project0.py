@@ -10,3 +10,4 @@ x = ec2.instances.filter(InstanceIds=Ids).stop()
 
 print("Instance Stopped")
 print(x)
+
