@@ -1,2 +1,2 @@
 # pyboto3
-LUIT-PRJECT!
+LUIT-PROJECT!
